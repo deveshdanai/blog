@@ -7,3 +7,4 @@ categories: jekyll update
 One step at a time.
 After days of trial and error, here I am, live.
 
+<!--more-->

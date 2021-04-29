@@ -13,7 +13,7 @@ Date -28 February 2021
 * **Trepidation** -  _noun_ 
 ::a feeling of fear or anxiety about something that may happen::
 _I immediately agreed, but I also had a little trepidation._
-
+<!--more-->
 * **Chronicle** - _verb with objects_  
 ::record (a series of events) in a factual and detailed way:: 
 _his work chronicles 20th-century migration_.

@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 <h1> All about HTML and CSS </h1>
 This article contains resources to understand fundamentals of HTML and CSS.
-
+<!--more-->
 ### HTML
 
 - Elements 

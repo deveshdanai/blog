@@ -10,4 +10,4 @@ categories: jekyll update
   Frosted Glass</a> by Devesh Danai (<a href="https://codepen.io/deveshdanai">@deveshdanai</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script><!--more-->

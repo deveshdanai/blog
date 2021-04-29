@@ -16,7 +16,7 @@ $ bundle info --path minima
 $ jekyll new myblog
 $ cd myblog
 ```
-
+<!--more-->
 - To build the site and make it available on a local server.
 ```console
 $ bundle exec jekyll serve

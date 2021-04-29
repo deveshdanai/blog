@@ -9,7 +9,7 @@ categories: jekyll update
 <img src="https://res.cloudinary.com/dyag5tn5v/image/upload/v1618716986/Screenshot_2021-04-18_at_8.32.09_AM_qpowxs.png" alt="Lyrid:overpriced_logo" width="60%">
 
 #### Overpriced.™ sold its first  piece that is a hoodie from its ultra-limited collection for $26,000 USD on Blockparty.co which makes it the most expensive hoodie ever sold. 
- 
+ <!--more-->
 
 
 Overpriced.™  is  Founded in 2021 by James Zwadlo and Chris Levett (Cofounders of the much-acclaimed creative agency Impossible Brief) & Leighton James (one half of the famed electronic music production duo Adventure Club), Overpriced.™ is the first high-end fashion brand powered by NFT.
